@@ -48,6 +48,7 @@
 ├── tests
 │   └── test.py                 # Тесты пайплайна
 ├── requirements.txt
+├── main.py
 └── README.md
 ```
 
