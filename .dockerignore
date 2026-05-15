@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.git/
+
+notebooks/
+report/
+presentation/
+
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.zip
